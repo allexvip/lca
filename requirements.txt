@@ -1,5 +1,6 @@
 python-dotenv
 pandas
+sqlalchemy
 bs4
 spacy
 undetected-chromedriver
